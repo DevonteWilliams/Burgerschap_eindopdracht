@@ -20,90 +20,94 @@
     }
 </style>
 <body>
-<div class="container-fluid text-center">
-    <div class="row">
-        <div class="col-md mt-3">
-            <h1 class="text-center text-dark-emphasis">Tips & Tricks voor het solliciteren</h1>
+<div class="row text-center">
+    <div class="col-2"></div>
+    <div class="col">
+        <div class="row">
+            <div class="col-md mt-3">
+                <h1 class="text-center text-dark-emphasis">Tips & Tricks voor het solliciteren</h1>
+            </div>
         </div>
-    </div>
-    <div class="row mt-3">
-        <div class="col-md mt-2">
-            <div class="fs-1">Hoe maak je een CV?</div>
-            Lorem ipsum des lorem ipsumus
+        <div class="row mt-3">
+            <div class="col-md mt-2">
+                <div class="fs-1">Hoe maak je een CV?</div>
+                Lorem ipsum des lorem ipsumus
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-2"></div>
-        <div class="col-md">
-            <div class="fs-1">Tips voor motivatiebrieven</div>
-            <p>
-                Bij een motivatiebrief schrijf je jouw motivatie/reden op waarom
-                je bij een bepaald bedrijf wil solliciteren/werken.
-            </p>
-            <p>
-                <b>LET OP:</b> Er zit een verschil tussen een motivatiebrief en een
-                sollicitatiebrief!
-            </p>
-            <p><i>Een sollicitatiebrief is gericht op:</i></p>
-            <ul>
-                <li>Jouw vaardigheden</li>
-                <li>Jouw ervaringen</li>
-                <li>Formaliteit</li>
-            </ul>
-            <p><i>Een motivatiebrief is gericht op:</i></p>
-            <ul>
-                <li>Jouw passie voor de functie van het bedrijf.</li>
-                <li>Jouw interesse in de functie van het bedrijf.</li>
-                <li>Kort maar krachtige inhoud.</li>
-            </ul>
-            <p>
-                Bij een motivatiebrief kan je veel punten verwerken. Het is nog altijd
-                belangrijk om een goede structuur te behouden in de brief;<br>
-                Een onderwerp, aanhef, inleiding, kern en een slot.<br>
-                De volgende punten kan je verwerken in jouw motivatiebrief:
-            </p>
-            <ul>
-                <li>Onderwerp; voor welke vacature solliciteer jij?</li>
-                <li>Aanhef; gebruik specifieke namen voor persoon die de brief ontvangt.<br><br></li>
-                <li>
-                    Inleiding:<br><br>
-                    <ul>
-                        <li>Laat weten wat je wilt.</li>
-                        <li>Geef aan waarom je voor dit bedrijf solliciteert.</li>
-                        <li>Maak de inleiding niet te lang!</li>
-                    </ul><br><br>
-                </li>
-                <li>
-                    Kern:<br><br>
-                    <ul>
-                        <li>Waarom past deze vacature bij jou?</li>
-                        <li>Waarom heb jij voor dit bedrijf gekozen?</li>
-                        <li>Wat wil jij of wat denk jij te leren met deze functie?</li>
-                        <li>Heb jij informatie over je opleiding en/of werkervaring(en)? Probeer hiernaartoe te verwijzen.</li>
-                    </ul><br><br>
-                </li>
-                <li>
-                    Slot:<br><br>
-                    <ul>
-                        <li>Probeer de brief te leiden naar een uitnodiging voor een sollicitatie.</li>
-                        <li>Probeer ook origineel te blijven; doe niet wat de meeste mensen zouden doen/zeggen.</li>
-                    </ul><br><br>
-                </li>
-            </ul>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-md">
+                <div class="fs-1">Tips voor motivatiebrieven</div>
+                <p>
+                    Bij een motivatiebrief schrijf je jouw motivatie/reden op waarom
+                    je bij een bepaald bedrijf wil solliciteren/werken.
+                </p>
+                <p>
+                    <b>LET OP:</b> Er zit een verschil tussen een motivatiebrief en een
+                    sollicitatiebrief!
+                </p>
+                <p><i>Een sollicitatiebrief is gericht op:</i></p>
+                <ul>
+                    <li>Jouw vaardigheden</li>
+                    <li>Jouw ervaringen</li>
+                    <li>Formaliteit</li>
+                </ul>
+                <p><i>Een motivatiebrief is gericht op:</i></p>
+                <ul>
+                    <li>Jouw passie voor de functie van het bedrijf.</li>
+                    <li>Jouw interesse in de functie van het bedrijf.</li>
+                    <li>Kort maar krachtige inhoud.</li>
+                </ul>
+                <p>
+                    Bij een motivatiebrief kan je veel punten verwerken. Het is nog altijd
+                    belangrijk om een goede structuur te behouden in de brief;<br>
+                    Een onderwerp, aanhef, inleiding, kern en een slot.<br>
+                    De volgende punten kan je verwerken in jouw motivatiebrief:
+                </p>
+                <ul>
+                    <li>Onderwerp; voor welke vacature solliciteer jij?</li>
+                    <li>Aanhef; gebruik specifieke namen voor persoon die de brief ontvangt.<br><br></li>
+                    <li>
+                        Inleiding:<br><br>
+                        <ul>
+                            <li>Laat weten wat je wilt.</li>
+                            <li>Geef aan waarom je voor dit bedrijf solliciteert.</li>
+                            <li>Maak de inleiding niet te lang!</li>
+                        </ul><br><br>
+                    </li>
+                    <li>
+                        Kern:<br><br>
+                        <ul>
+                            <li>Waarom past deze vacature bij jou?</li>
+                            <li>Waarom heb jij voor dit bedrijf gekozen?</li>
+                            <li>Wat wil jij of wat denk jij te leren met deze functie?</li>
+                            <li>Heb jij informatie over je opleiding en/of werkervaring(en)? Probeer hiernaartoe te verwijzen.</li>
+                        </ul><br><br>
+                    </li>
+                    <li>
+                        Slot:<br><br>
+                        <ul>
+                            <li>Probeer de brief te leiden naar een uitnodiging voor een sollicitatie.</li>
+                            <li>Probeer ook origineel te blijven; doe niet wat de meeste mensen zouden doen/zeggen.</li>
+                        </ul><br><br>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-2"></div>
         </div>
-        <div class="col-2"></div>
-    </div>
-    <div class="row">
-        <div class="col-md">
-            <div class="fs-1">Hoe jij je aanwezigheid laat merken</div>
-            Text to display my point :D
+        <div class="row">
+            <div class="col-md">
+                <div class="fs-1">Hoe jij je aanwezigheid laat merken</div>
+                Text to display my point :D
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md">
+        <div class="row">
+            <div class="col-md">
 
+            </div>
         </div>
     </div>
+    <div class="col-2"></div>
 </div>
 </body>
 </html>
