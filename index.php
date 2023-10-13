@@ -20,7 +20,49 @@
         <div class="row mt-3">
             <div class="col-md mt-2">
                 <div class="fs-1">Hoe maak je een CV?</div>
-                Lorem ipsum des lorem ipsumus
+                <p>
+                    Een CV: Je hoort het woord waarschijnlijk overal. Hierbij spreken wij niet over een
+                    CV-ketel, maar over een CV dat je voor werk(ervaringen), persoonlijke ervaringen en alles
+                    dat je nodig hebt om jouw werkleven te beschrijven.
+                </p>
+                <p>
+                    Ten eerste is het belangrijk om persoonlijke gegevens te noteren, zoals jouw:
+                </p>
+                <div class="row">
+                    <div class="col">
+                        <ul>
+                            <li>Voor- en achternaam</li>
+                            <li>E-mailadres</li>
+                            <li>Telefoonnummer</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <li>Geboortedatum en geboorteplaats</li>
+                            <li>Adres</li>
+                            <li>Woonplaats</li>
+                        </ul>
+                    </div>
+                </div>
+                <br>
+                <p>
+                    Ten tweede bevat een CV al jouw werkervaringen, zoals (letterlijk) werk, stages, vrijwilligerswerk,
+                    freelance-ervaring en ga zo maar door. Alles wat dus gerelateerd is met werk en waar je
+                    (meestal) geld mee verdient, kan je zien als werkervaring.
+                </p>
+                <p>
+                    Ten derde is het belangrijk om al jouw leerprocessen te beschrijven. Hierbij ga je natuurlijk
+                    niet vertellen over wat je gedaan hebt op de basisschool en op de middelbare
+                    (misschien wel nog het opleidingsniveau/diploma), maar wat jij hebt geleerd bij bijvoorbeeld:<br>
+                    <i>Opleidingen en cursussen</i>, of iets wat van nut kan zijn voor een bedrijf/werkgever.
+                </p>
+                <p>
+                    Daarnaast bevatten de meeste CVs
+<!--                    <span class="tooltip">kerncompetenties<span class="tooltiptext">-->
+<!--                        Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor-->
+<!--                        het realiseren van de strategische doelen van een organisatie of-->
+<!--                        individu</span></span>-->
+                </p>
             </div>
         </div>
         <div class="row">
