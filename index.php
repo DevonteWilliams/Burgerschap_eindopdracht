@@ -10,24 +10,13 @@
             integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
             crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
-<style>
-    p {
-        font-size: 13pt;
-    }
-    li {
-        /*list-style-position: inside;*/
-    }
-</style>
 <body>
-<div class="row text-center">
+<h1 class="container-fluid text-center purple-bg text-light py-3">Tips & Tricks voor het solliciteren</h1>
+<div class="row text-center text-dark">
     <div class="col-2"></div>
     <div class="col">
-        <div class="row">
-            <div class="col-md mt-3">
-                <h1 class="text-center text-dark-emphasis">Tips & Tricks voor het solliciteren</h1>
-            </div>
-        </div>
         <div class="row mt-3">
             <div class="col-md mt-2">
                 <div class="fs-1">Hoe maak je een CV?</div>
@@ -73,7 +62,8 @@
                             <li>Laat weten wat je wilt.</li>
                             <li>Geef aan waarom je voor dit bedrijf solliciteert.</li>
                             <li>Maak de inleiding niet te lang!</li>
-                        </ul><br><br>
+                        </ul>
+                        <br><br>
                     </li>
                     <li>
                         Kern:<br><br>
@@ -81,15 +71,19 @@
                             <li>Waarom past deze vacature bij jou?</li>
                             <li>Waarom heb jij voor dit bedrijf gekozen?</li>
                             <li>Wat wil jij of wat denk jij te leren met deze functie?</li>
-                            <li>Heb jij informatie over je opleiding en/of werkervaring(en)? Probeer hiernaartoe te verwijzen.</li>
-                        </ul><br><br>
+                            <li>Heb jij informatie over je opleiding en/of werkervaring(en)? Probeer hiernaartoe te
+                                verwijzen.
+                            </li>
+                        </ul>
+                        <br><br>
                     </li>
                     <li>
                         Slot:<br><br>
                         <ul>
                             <li>Probeer de brief te leiden naar een uitnodiging voor een sollicitatie.</li>
                             <li>Probeer ook origineel te blijven; doe niet wat de meeste mensen zouden doen/zeggen.</li>
-                        </ul><br><br>
+                        </ul>
+                        <br><br>
                     </li>
                 </ul>
             </div>

@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(90deg, #f7fc98, rgb(255, 133, 255));
+    overflow-x: hidden;
+}
+
+.purple-bg {
+    background-color: rgb(240, 26, 255);
+}
+
+p {
+    font-size: 13pt;
+}
+li {
+    /*list-style-position: inside;*/
+}
