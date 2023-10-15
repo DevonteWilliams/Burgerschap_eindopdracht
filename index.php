@@ -28,6 +28,7 @@
                 <p>
                     Ten eerste is het belangrijk om persoonlijke gegevens te noteren, zoals jouw:
                 </p>
+                <br>
                 <div class="row">
                     <div class="col">
                         <ul>
@@ -58,10 +59,51 @@
                 </p>
                 <p>
                     Daarnaast bevatten de meeste CVs
-                                        <span class="tooltip">kerncompetenties<span class="tooltiptext">
-                                            Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor
-                                            het realiseren van de strategische doelen van een organisatie of
-                                            individu</span></span>
+                    <span class="tooltip">kerncompetenties<span class="tooltiptext">
+                            Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor
+                            het realiseren van de strategische doelen van een organisatie of
+                            individu</span>
+                    </span>
+                    een aantal voorbeelden van kerncompetenties zijn:
+                </p>
+                <br>
+                <div class="row">
+                    <div class="col">
+                        <ul>
+                            <li>Verantwoordelijkheid</li>
+                            <li>Ambitie</li>
+                            <li>Communicatie</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <li>Flexibiliteit</li>
+                            <li>Initiatief-nemend</li>
+                            <li>Teamwerk</li>
+                        </ul>
+                    </div>
+                </div>
+                <br>
+                <p>
+                    Deze punten zullen ook nog verwerkt moeten worden in jouw CV:
+                </p>
+                <br>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-8">
+                        <ul>
+                            <li>Vaardigheden</li>
+                            <li>Kennis over talen (welke ken je/kan je spreken)</li>
+                            <li>Certificaten (als die van belang zijn)</li>
+                        </ul>
+                    </div>
+                    <div class="col"></div>
+                </div>
+                <br>
+                <p>
+                    Alle punten boven vermeld zijn vrijwel een moet in elke CV. Je kan nog altijd extra onderwerpen/punten
+                    vermelden waarvan jij denkt dat een bedrijf en/of werkgever dat interessant zal vinden of als dat nog
+                    iets over jou vertelt.
                 </p>
             </div>
         </div>
@@ -134,7 +176,8 @@
         <div class="row">
             <div class="col-md">
                 <div class="fs-1">Hoe jij je aanwezigheid laat merken</div>
-                <p>Wanneer jij je aanwezigheid laat merken voor anderen, zorg je voor een goede presentie. Je let dan op de volgende dingen:</p>
+                <p>Wanneer jij je aanwezigheid laat merken voor anderen, zorg je voor een goede presentie. Je let dan op
+                    de volgende dingen:</p>
                 <div class="row">
                     <div class="col"></div>
                     <div class="col-8">
@@ -143,10 +186,15 @@
                             <li>Je rekent uit hoe lang jouw reis naar het werk/bedrijf kan duren</li>
                             <li>Je zorgt voor een netjes uiterlijk. Je bent actief bezig en zakelijk gekleed</li>
                             <li>Je staat op tijd op. Het is natuurlijk belangrijk dat je gezond bent</li>
-                            <li>Je bent online en actief op social media, zodat iedereen contact met jouw kan opnemen</li>
-                            <li>Als er iets aan de hand is (bijvoorbeeld je bent ziek of je komt te laat), dan vertel je dat aan je werkgever</li>
+                            <li>Je bent online en actief op social media, zodat iedereen contact met jouw kan opnemen
+                            </li>
+                            <li>Als er iets aan de hand is (bijvoorbeeld je bent ziek of je komt te laat), dan vertel je
+                                dat aan je werkgever
+                            </li>
                             <li>Als je op vakantie gaat, vertel je dat (ruim) van tevoren</li>
-                            <li>Als de baan niet voor jou is, dan laat je het aan de werkgever weten of je nog wilt werken of niet</li>
+                            <li>Als de baan niet voor jou is, dan laat je het aan de werkgever weten of je nog wilt
+                                werken of niet
+                            </li>
                         </ul>
                     </div>
                     <div class="col"></div>
@@ -156,7 +204,7 @@
     </div>
     <div class="col-2"></div>
 </div>
-<div class="container-fluid bg-dark text-white text-center">
+<div class="container-fluid bg-dark text-white text-center mt-5">
     &copy; 2023 Devonté Williams, Akin Gültekin, Tim Vos
 </div>
 </body>
