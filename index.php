@@ -58,10 +58,10 @@
                 </p>
                 <p>
                     Daarnaast bevatten de meeste CVs
-                    <!--                    <span class="tooltip">kerncompetenties<span class="tooltiptext">-->
-                    <!--                        Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor-->
-                    <!--                        het realiseren van de strategische doelen van een organisatie of-->
-                    <!--                        individu</span></span>-->
+                                        <span class="tooltip">kerncompetenties<span class="tooltiptext">
+                                            Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor
+                                            het realiseren van de strategische doelen van een organisatie of
+                                            individu</span></span>
                 </p>
             </div>
         </div>
