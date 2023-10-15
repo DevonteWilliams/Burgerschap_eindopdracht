@@ -58,10 +58,10 @@
                 </p>
                 <p>
                     Daarnaast bevatten de meeste CVs
-<!--                    <span class="tooltip">kerncompetenties<span class="tooltiptext">-->
-<!--                        Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor-->
-<!--                        het realiseren van de strategische doelen van een organisatie of-->
-<!--                        individu</span></span>-->
+                    <!--                    <span class="tooltip">kerncompetenties<span class="tooltiptext">-->
+                    <!--                        Specifieke kennis, vaardigheden en attitudes die essentieel zijn voor-->
+                    <!--                        het realiseren van de strategische doelen van een organisatie of-->
+                    <!--                        individu</span></span>-->
                 </p>
             </div>
         </div>
@@ -134,16 +134,30 @@
         <div class="row">
             <div class="col-md">
                 <div class="fs-1">Hoe jij je aanwezigheid laat merken</div>
-                Text to display my point :D
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md">
-
+                <p>Wanneer jij je aanwezigheid laat merken voor anderen, zorg je voor een goede presentie. Je let dan op de volgende dingen:</p>
+                <div class="row">
+                    <div class="col"></div>
+                    <div class="col-8">
+                        <ul>
+                            <li>Je laat weten op welke dagen en tijden je beschikbaar kunt zijn</li>
+                            <li>Je rekent uit hoe lang jouw reis naar het werk/bedrijf kan duren</li>
+                            <li>Je zorgt voor een netjes uiterlijk. Je bent actief bezig en zakelijk gekleed</li>
+                            <li>Je staat op tijd op. Het is natuurlijk belangrijk dat je gezond bent</li>
+                            <li>Je bent online en actief op social media, zodat iedereen contact met jouw kan opnemen</li>
+                            <li>Als er iets aan de hand is (bijvoorbeeld je bent ziek of je komt te laat), dan vertel je dat aan je werkgever</li>
+                            <li>Als je op vakantie gaat, vertel je dat (ruim) van tevoren</li>
+                            <li>Als de baan niet voor jou is, dan laat je het aan de werkgever weten of je nog wilt werken of niet</li>
+                        </ul>
+                    </div>
+                    <div class="col"></div>
+                </div>
             </div>
         </div>
     </div>
     <div class="col-2"></div>
+</div>
+<div class="container-fluid bg-dark text-white text-center">
+    &copy; 2023 Devonté Williams, Akin Gültekin, Tim Vos
 </div>
 </body>
 </html>
